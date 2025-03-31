@@ -1,5 +1,5 @@
 ## Below are the steps Executed.
-\n PS C:\Users\HP> # Step 1: Creating a New folder
+~ PS C:\Users\HP> # Step 1: Creating a New folder
 PS C:\Users\HP> mkdir Git_Assignment_1
 
 
